@@ -8,7 +8,7 @@
  *
  *  Modified for Hubitat by Tim Owen
  *  Porting Date: 2019-04-22
- *  Modified Code: https://github.com/timowen001gh/Hubitat/blob/master/zxt-120-hubitat.groovy
+ *  Modified Code: 
  *
  * Copyright (C) 2013 Ronald Gouldner
  * Permission is hereby granted, free of charge, to any person obtaining a copy of this
